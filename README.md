@@ -1,0 +1,2 @@
+# bqtest
+for bigquery test
